@@ -20,18 +20,18 @@
 
 
 ## SGBDs:
-![download (4)](https://user-images.githubusercontent.com/55951781/116021542-c76d7080-a61e-11eb-8068-af0c2d555a3a.png)
-![download (3)](https://user-images.githubusercontent.com/55951781/116021661-026fa400-a61f-11eb-9643-503497e8564d.png)
-![download (2)](https://user-images.githubusercontent.com/55951781/116021588-dd7b3100-a61e-11eb-9297-da5d6d607b21.png)
+![download (4)](https://i.imgur.com/eeV6Siw.jpg/1)
+![download (3)](https://i.imgur.com/WRq8Ij0.jpeg/1)
+![download (2)](https://i.imgur.com/IPuUb0a.png/1)
 
 
 
 ## Data analysis tools:
 
-![images](https://user-images.githubusercontent.com/55951781/116022063-d43e9400-a61f-11eb-82fe-bdb51f94ccb4.png)
-![download (1)](https://user-images.githubusercontent.com/55951781/116023039-c722a480-a621-11eb-8610-184f002c17bc.png)
-![images (1)](https://user-images.githubusercontent.com/55951781/116023179-051fc880-a622-11eb-9560-26505027f87e.png)
-![download (3)](https://user-images.githubusercontent.com/55951781/116023446-7b242f80-a622-11eb-9a1c-d2178fc9f543.png)
+![images](https://i.imgur.com/lak9M2Q.png/1)
+![download (1)](https://i.imgur.com/V45lRFT.png/1)
+![images (1)](https://i.imgur.com/57dvAVU.png/1)
+![download (3)](https://i.imgur.com/EvN7pcD.jpeg/1)
 
 ## Cálculos matemáticos- ESTUDOS
 ![images (2)](https://user-images.githubusercontent.com/55951781/116022678-0997b180-a621-11eb-8c4f-6e2e25a7e82a.png)
