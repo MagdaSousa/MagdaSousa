@@ -10,7 +10,7 @@
 
 
 ### Estudos básicos:
-![download (2)](https://user-images.githubusercontent.com/55951781/116023994-b115e380-a623-11eb-9fdd-a4d517d53023.png)
+![download](https://i.imgur.com/BQlSc41.png/1)
 
 
 
