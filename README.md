@@ -13,7 +13,7 @@
 
 
 
-
+#bases sql e nosql
 
 ![download (4)](https://i.imgur.com/eeV6Siw.jpg/1)
 ![download (3)](https://i.imgur.com/WRq8Ij0.jpeg/1)
